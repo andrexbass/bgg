@@ -2,7 +2,7 @@ Package.describe({
   name: 'andrexbass:bgg',
   version: '0.1.0',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'meteor package with integration for api boardgamegeek',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/andrexbass/bgg.git',
   // By default, Meteor will default to using README.md for documentation.
