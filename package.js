@@ -13,7 +13,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.4.2.3');
   api.use('ecmascript');
-  api.use('peerlibrary:xml2js');
+  api.use('peerlibrary:xml2js@0.4.8_1');
   api.mainModule('bgg.js');
 });
 
